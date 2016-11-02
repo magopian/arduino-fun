@@ -6,3 +6,8 @@
 [![Arduino drivin a seeedstudio ultrathin 16x32 led matrix](http://img.youtube.com/vi/dIlhToCHoS4/0.jpg)](http://www.youtube.com/watch?v=dIlhToCHoS4)
 
 [![Arduino drivin a seeedstudio ultrathin 16x32 led matrix (scrolling test)](http://img.youtube.com/vi/v--DMhbVBSM/0.jpg)](http://www.youtube.com/watch?v=v--DMhbVBSM)
+
+Also works on a [nodeMCU](http://www.nodemcu.com/index_en.html) with an
+external power supply for the led matrix:
+
+[![nodeMCU drivin a seeedstudio ultrathin 16x32 led matrix (scrolling test)](http://img.youtube.com/vi/UNgnXcdvwqA/0.jpg)](http://www.youtube.com/watch?v=UNgnXcdvwqA)
